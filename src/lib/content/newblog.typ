@@ -4,7 +4,7 @@
 #show: theme
 #show: article.with(
   title: "New Blog!",
-  desc: [This is where I'm posting now],
+  desc: [Because why shouldn't I own the website I post to?],
   publish_date: datetime(year: 2026, month: 11, day: 22),
   tags: ("misc","myself",),
 )
