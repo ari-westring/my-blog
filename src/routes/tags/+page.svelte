@@ -96,7 +96,7 @@
     h1,
     h2 {
         color: var(--text-1);
-        font-size: 0.875rem;
+        font-size: 1.5rem;
         font-weight: 700;
         letter-spacing: 0.08em;
         line-height: 1.25;

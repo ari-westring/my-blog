@@ -2,7 +2,7 @@
 
 .typst {
 	font-family: var(--font-monospace);
-	font-size: 0.75rem;
+	font-size: 14pt;
 	line-height: 1.5;
 	color: var(--text-2);
 	text-rendering: optimizeLegibility;

@@ -30,7 +30,7 @@
 	--font-sans: ui-sans-serif, system-ui, sans-serif;
 	--font-system-ui: ui-sans-serif, system-ui, sans-serif;
 	--font-sans-serif: ui-sans-serif, system-ui, sans-serif;
-	--font-monospace: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	--font-monospace: courier, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
 
 @custom-variant dark (&:is([color-scheme='dark'] *));
@@ -81,7 +81,7 @@ li {
 	gap: 1rem;
 	color: var(--text-1);
 	font-family: var(--font-monospace);
-	font-size: 0.875rem;
+	font-size: 1rem;
 	font-weight: 600;
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
@@ -100,7 +100,7 @@ li {
 }
 
 .page-prose {
-	min-height: 100vh;
+	min-height: 70vh;
 	background: var(--background);
 	padding-bottom: 5rem;
 	color: var(--text-1);
@@ -114,7 +114,7 @@ li {
 .page-prose h1,
 .page-prose h2 {
 	color: var(--text-1);
-	font-size: 0.875rem;
+	font-size: 1.5rem;
 	font-weight: 700;
 	letter-spacing: 0.08em;
 	line-height: 1.25;
