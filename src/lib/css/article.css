@@ -42,12 +42,14 @@
 .typst h1 {
 	font-size: 1.5rem;
 	margin-top: 1.5rem;
+	font-weight: 600;
 }
 
 .typst h2 {
 	font-size: 1.25rem;
 	margin-top: 2rem;
 	margin-bottom: 1rem;
+	font-weight: 800;
 }
 
 @media (min-width: 42rem) {
@@ -90,6 +92,7 @@
 	margin-top: 0;
 	margin-bottom: 1.25rem;
 	text-wrap: pretty;
+	font-weight: 500;
 }
 
 /* ─── Blockquote ───────────────────────────────────────────────────────────────── */

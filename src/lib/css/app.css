@@ -82,7 +82,7 @@ li {
 	color: var(--text-1);
 	font-family: var(--font-monospace);
 	font-size: 1rem;
-	font-weight: 600;
+	font-weight: 800;
 	letter-spacing: 0.05em;
 	text-transform: uppercase;
 }
@@ -115,7 +115,7 @@ li {
 .page-prose h2 {
 	color: var(--text-1);
 	font-size: 1.5rem;
-	font-weight: 700;
+	font-weight: 550;
 	letter-spacing: 0.08em;
 	line-height: 1.25;
 	text-wrap: balance;

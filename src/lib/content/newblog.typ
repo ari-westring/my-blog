@@ -9,7 +9,6 @@
   tags: ("misc","myself",),
 )
 
-#outline()
 
 = Hello!
 
@@ -37,7 +36,7 @@ His video #link("https://www.youtube.com/watch?v=yGlXEcLPyyI")[What if you can't
 
 == Technology Connections
 
-Alec **usually** makes videos about usually overlooked elements of the technology thats all around us (plus an annual video complaining about modern christmas lights), but his video #link("https://www.youtube.com/watch?v=QEJpZjg8GuA")[Algorithms are breaking the way we think] really opened my eyes to how much of what I was consuming wasn't actually chosen by me.
+Alec *usually* makes videos about usually overlooked elements of the technology thats all around us (plus an annual video complaining about modern christmas lights), but his video #link("https://www.youtube.com/watch?v=QEJpZjg8GuA")[Algorithms are breaking the way we think] really opened my eyes to how much of what I was consuming wasn't actually chosen by me.
 
 I really agree with him that it's worth curating what you view online and don't just rely on what the algorithms give you, I think we should all be more deliberate in the things we do and avoid letting big tech companies decide for us.
 
