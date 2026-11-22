@@ -13,6 +13,6 @@ export const pages: { name: string; href: string }[] = [
     { name: 'About', href: resolve(`about`) }
 ];
 export const socials: { name: string; href: string }[] = [
-    { name: 'Mail', href: 'mailto:your-blog@carmody.ie' },
+    { name: 'Mail', href: 'mailto:blog@carmody.ie' },
     { name: 'RSS', href: resolve('rss.xml') }
 ];
