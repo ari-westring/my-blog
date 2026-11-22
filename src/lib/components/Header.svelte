@@ -38,7 +38,7 @@
 >
     <div class="flex gap-4 justify-between">
         <a class="font-monospace text-md pt-2 pb-1" href={resolve('/')} aria-label="Home"
-            ><span>{config.name}:blog</span></a
+            ><span>Ari!</span></a
         >
         <nav class="items-center flex font-monospace lowercase text-dim-foreground">
             <!-- Block form, not disable-next-line: the href sits mid-tag and the
