@@ -12,7 +12,7 @@
     <section class="posts-content">
         <header class="posts-header">
             <h1>Posts</h1>
-            <p>Notes on software, tools, and technical writing.</p>
+            <p></p>
         </header>
         <table class="post-table">
             <tbody>
