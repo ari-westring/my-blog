@@ -12,6 +12,8 @@
                 <ul>
                     <li>Ruán Murgatroyd - <a href="https://blog.rjm.ie">rjm.ie</a> </li>
                     <p>My good friend Ruán writes about software, management, and volunteering</p>
+                    <li>Mia Rolfe - <a href="https://miarolfe.com">miarolfe.com</a></li>
+                    <p>Mia is a software engineer who writes about her experiences from learning and developing her skills</p>
                 </ul>
         </header>
     </div>
