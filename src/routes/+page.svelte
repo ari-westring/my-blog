@@ -15,7 +15,7 @@
             <p>In my free time I love photography and technology, and I also volunteer with Kildare Civil Defence</p>
         <h1>Should you read my blog?</h1>
             <p>That's for you to decide! </p>
-            <p>I got into blogging to get away from feeds and algorithms and have to be more deliberate with what I consume on the internet. If you found your way here it was your own decision, and so you're free to stay or leave as you please.</p>
+            <p>I got into blogging to get away from feeds and algorithms and to be more deliberate with what I consume on the internet. If you found your way here it was your own decision, and so you're free to stay or leave as you please.</p>
     </div>
     
 </main>
